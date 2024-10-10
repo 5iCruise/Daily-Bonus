@@ -60,9 +60,9 @@ Telegram 推送签到结果
 | TG_USER_ID   | user id     | [How can I send a message to someone with my telegram bot using their Username](https://stackoverflow.com/questions/41664810/how-can-i-send-a-message-to-someone-with-my-telegram-bot-using-their-username) |
 
 ### V2EX
-
-V2EX 论坛使用 Cookie 登录  （**20240913-更新**）
-
+'
+V2EX 论坛使用 Cookie 登录  （**20241010-更新**）
+'
 | Name         | Description |
 |--------------|-------------|
 | V2EX_COOKIES | Cookie      |
