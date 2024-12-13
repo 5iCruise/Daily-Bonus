@@ -1,3 +1,7 @@
+---
+layout: v2ex cookie
+update: 2024-12-13
+---
 # Daily-Bonus
 
 <p>
@@ -61,7 +65,7 @@ Telegram 推送签到结果
 
 ### V2EX
 '
-V2EX 论坛使用 Cookie 登录  （**20241112-更新**）
+V2EX 论坛使用 Cookie 登录  （**20241213-更新**）
 '
 | Name         | Description |
 |--------------|-------------|
