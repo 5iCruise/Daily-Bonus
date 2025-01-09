@@ -1,6 +1,6 @@
 ---
 layout: v2ex cookie
-update: 2024-12-13
+update: 2025-01-09
 ---
 # Daily-Bonus
 
@@ -64,9 +64,9 @@ Telegram 推送签到结果
 | TG_USER_ID   | user id     | [How can I send a message to someone with my telegram bot using their Username](https://stackoverflow.com/questions/41664810/how-can-i-send-a-message-to-someone-with-my-telegram-bot-using-their-username) |
 
 ### V2EX
-'
-V2EX 论坛使用 Cookie 登录  （**20241213-更新**）
-'
+
+- [x] V2EX 论坛使用 Cookie 登录  （**每月更新**）    
+
 | Name         | Description |
 |--------------|-------------|
 | V2EX_COOKIES | Cookie      |
