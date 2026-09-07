@@ -1,7 +1,7 @@
 ---
 layout: v2ex cookie
-update: 2026-08-28
-next: 2026-09-26
+update: 2026-09-07
+next: 2026-09-30
 ---
 # Daily-Bonus
 
